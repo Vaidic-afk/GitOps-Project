@@ -1,0 +1,7 @@
+*/.terraform
+*/tf.state
+*/crash.log
+*/tf.state.*
+*.tfvars
+*.tfvars.json
+export.sh
